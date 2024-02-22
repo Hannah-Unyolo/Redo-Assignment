@@ -1,0 +1,24 @@
+.input{
+    border: solid 1px; 
+    padding: 12px ;
+    margin: auto;
+    width: 60%;
+
+}
+#form{
+    border: solid 1px;
+    padding :16px;
+    margin: 0 auto;
+    width: 40%;
+}
+#button{
+    border: solid 1px; 
+    padding: 12px;
+    margin: 0 auto;
+    width: 70%;
+    background-color: black;
+    color: white
+}
+#icons{
+    margin-left: 30%;
+}
